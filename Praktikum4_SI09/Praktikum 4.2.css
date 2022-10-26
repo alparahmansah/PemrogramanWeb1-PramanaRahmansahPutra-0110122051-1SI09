@@ -1,0 +1,88 @@
+    .header1{
+        border: 1px solid; 
+        width: 65em; 
+        height: 55em; 
+        margin: auto;
+    }
+    .header2{
+        text-align: center; 
+        border: 1px solid;
+        padding-bottom: 2%;
+        background-color: #DCDCDC;
+    }
+    .inp{
+        width: 53em; 
+        border: 1px solid; 
+        height: 1.6em;
+    }
+    .img{
+        width: 30px; 
+        height: 23px;
+    }
+    .div1{
+        border: 1px solid;
+        width: 10em;
+        height: 5em;
+        background: gold;
+        margin-left: 5%;
+        margin-top: 5%;
+        float: left;
+    }
+    .div2{
+        border: 1px solid;
+        width: 55em;
+        height: 5em;
+        background: orangered;
+        margin-top: 5%;
+        margin-right: 5%;
+        float: right;
+    }
+    .div3{
+        border: 1px solid;
+        width: 10em;
+        height: 25em;
+        background: darkseagreen;
+        margin-left: 5%;
+        margin-top: 5%;
+        float: left;
+    }
+    .div4{
+        border: 1px solid;
+        width: 35em;
+        height: 25em;
+        background: silver;
+        margin-top: 5%;
+        margin-left: 10%;
+        float: left;
+    }
+    .div7{
+        border: 1px solid;
+        width: 30em;
+        height: 5em;
+        background: pink;
+        margin-top: 5%;
+        margin-left: 6%;
+        float: left;
+    }
+    .div5{
+        border: 1px solid;
+        width: 15em;
+        height: 25em;
+        background: deepskyblue;
+        margin-top: 5%;
+        margin-left: 0%;
+        margin-right: 5%;
+        float: right;
+    }
+    
+    .div6{
+        border: 1px solid;
+        width: 55em;
+        height: 6em;
+        background: blue;
+        margin-left: 10%;
+        margin-right: 5%;
+        margin-top: 5%;
+        float: right;
+        float: left;
+    }
