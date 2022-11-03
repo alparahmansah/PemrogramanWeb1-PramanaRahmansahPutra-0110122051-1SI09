@@ -1,0 +1,58 @@
+h1{
+    color: blue
+}
+#header{
+    background-color: beige; text-align: center;
+}
+blockquote{
+    background-color: aqua;  font-weight: bold; 
+}
+.gambar{
+    text-align: center;
+}
+.yahaha{
+    text-align: center;
+}
+.yahaha ul{ 
+    list-style:none ; display: flex; justify-content: center;
+} 
+.yahaha ul li{
+    margin: 0cm 1cm;
+}
+.jawa{ 
+    color: brown; font-size: 5cm; font-weight: bold;
+}
+body{ background-color: lightsalmon;
+}
+.koleksi{
+    display: flex;
+    text-align: center;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.koleksi,img{ width: 45%;
+
+}
+.promo h2{
+    color: red;
+    text-align: center;
+}
+.promo h3{
+    color: red;
+    text-align: center;
+    border: 1px solid;
+    border-color: blue;
+    background-color: white;
+    width: 50%;
+    margin: auto;
+}
+.promo ol{
+    list-style:none ; display: flex; justify-content: center;
+}
+.promo ol li{
+    margin: auto;
+}
+.promo h4{
+    text-align: center;
+}
