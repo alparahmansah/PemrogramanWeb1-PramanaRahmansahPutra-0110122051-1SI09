@@ -1,0 +1,40 @@
+.box1{
+    background-color: blue;
+    width: 20%;
+    height: 700px;
+    margin: 2em 1em;
+}
+.box2{
+    background-color: rebeccapurple;
+    width: 20%;
+    height: 700px;
+    margin: 2em 1em;
+}
+.box3{
+    background-color: aquamarine;
+    width: 20%;
+    height: 700px;
+    margin: 2em 1em;
+}
+.box4{
+    background-color: darkmagenta;
+    width: 20%;
+    height: 700px;
+    margin: 2em 1em;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 23%;
+    margin: 1em;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: beige;
+}
