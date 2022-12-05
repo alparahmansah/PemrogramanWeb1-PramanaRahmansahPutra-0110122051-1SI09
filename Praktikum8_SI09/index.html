@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .header{ 
+            background-color: royalblue;
+            height: 100px;
+        }
+            
+        .main{ 
+            background-color: yellowgreen;
+            height: 500px;
+            display: flex;
+
+            }
+        .footer{
+            background-color: palevioletred;
+            height: 100px;
+            }
+        .container{
+            display: flex;
+            flex-direction: column;
+        }  
+        .article{
+            background-color: lightpink;
+            width: 80%;
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            justify-content: flex-end;
+        }           
+        .aside{
+            background-color: navy;
+            width: 20%
+            ;
+        }
+        .bingkai img{
+            width: 250px;
+        }
+        .bingkai{
+            display: flex;
+            justify-content: center;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            Header
+        </div>
+        <div class="main">
+            <div class="aside">
+                aside
+            </div>
+            <div class="article">
+                <h3> Article</h3>
+                <div class="bingkai">
+                    <img src="https://cdn.resfu.com/media/img_news/marco-materazzi-y-manuel-rui-costa-observan-las-bengalas-lanzadas-al-terreno-de-juego-en-un-derbi-de-milan-de-2005--afp.jpg?size=1200x&lossy=1" alt="">
+                    <img src="https://cdn.resfu.com/media/img_news/marco-materazzi-y-manuel-rui-costa-observan-las-bengalas-lanzadas-al-terreno-de-juego-en-un-derbi-de-milan-de-2005--afp.jpg?size=1200x&lossy=1" alt="">
+                    <img src="https://cdn.resfu.com/media/img_news/marco-materazzi-y-manuel-rui-costa-observan-las-bengalas-lanzadas-al-terreno-de-juego-en-un-derbi-de-milan-de-2005--afp.jpg?size=1200x&lossy=1" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+            Footer
+        </div>
+    </div>
+    
+</body>
+</html>
